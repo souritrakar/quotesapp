@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/quotesapp/static/css/main.03f3286b.chunk.css",
+    "main.js": "/quotesapp/static/js/main.91fee5cf.chunk.js",
+    "main.js.map": "/quotesapp/static/js/main.91fee5cf.chunk.js.map",
+    "runtime-main.js": "/quotesapp/static/js/runtime-main.23e6b8b5.js",
+    "runtime-main.js.map": "/quotesapp/static/js/runtime-main.23e6b8b5.js.map",
+    "static/js/2.25f3c1d3.chunk.js": "/quotesapp/static/js/2.25f3c1d3.chunk.js",
+    "static/js/2.25f3c1d3.chunk.js.map": "/quotesapp/static/js/2.25f3c1d3.chunk.js.map",
+    "static/js/3.ddcd00bb.chunk.js": "/quotesapp/static/js/3.ddcd00bb.chunk.js",
+    "static/js/3.ddcd00bb.chunk.js.map": "/quotesapp/static/js/3.ddcd00bb.chunk.js.map",
+    "index.html": "/quotesapp/index.html",
+    "static/css/main.03f3286b.chunk.css.map": "/quotesapp/static/css/main.03f3286b.chunk.css.map",
+    "static/js/2.25f3c1d3.chunk.js.LICENSE.txt": "/quotesapp/static/js/2.25f3c1d3.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/quotesapp/static/media/logo.103b5fa1.svg",
+    "static/media/quotes.63a3e29a.png": "/quotesapp/static/media/quotes.63a3e29a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23e6b8b5.js",
+    "static/js/2.25f3c1d3.chunk.js",
+    "static/css/main.03f3286b.chunk.css",
+    "static/js/main.91fee5cf.chunk.js"
+  ]
+}
